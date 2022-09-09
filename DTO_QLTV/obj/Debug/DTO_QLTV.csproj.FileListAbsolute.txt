@@ -1,0 +1,34 @@
+D:\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+D:\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+D:\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+D:\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+D:\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+C:\Users\hoang\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojResolveAssemblyReference.cache
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.csprojResolveAssemblyReference.cache
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DTO_QLTV\obj\Debug\DTO_QLTV.pdb

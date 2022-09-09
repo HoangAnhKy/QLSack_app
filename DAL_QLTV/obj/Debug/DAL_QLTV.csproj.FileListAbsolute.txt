@@ -1,0 +1,53 @@
+D:\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+D:\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+D:\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.dll
+D:\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csprojAssemblyReference.cache
+D:\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache
+D:\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CopyComplete
+D:\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+D:\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CopyComplete
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csprojAssemblyReference.cache
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CopyComplete
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CopyComplete
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\bin\Debug\DTO_QLTV.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.AssemblyReference.cache
+D:\Learning\KiemThu&CNTT\Test\QLSACH\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache

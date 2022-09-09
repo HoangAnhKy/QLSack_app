@@ -1,0 +1,648 @@
+C:\Users\hoang\source\repos\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+C:\Users\hoang\source\repos\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+C:\Users\hoang\source\repos\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.Form1.resources
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+C:\Users\hoang\source\repos\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+D:\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+D:\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+D:\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.csprojAssemblyReference.cache
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.cache
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+D:\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+D:\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+D:\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+D:\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+D:\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CopyComplete
+D:\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+D:\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.exe.config
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.cache
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\RdlCompile.cache
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\RdlCompile.compiled
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\EnvDTE.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\stdole.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\EnvDTE80.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\VSLangProj.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\VSLangProj80.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\VSLangProj2.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CopyComplete
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_DSNo.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\EnvDTE.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\stdole.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csprojAssemblyReference.cache
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_DSNo.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\RdlCompile.cache
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\RdlCompile.compiled
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CopyComplete
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_KhoSach.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_ReportMuon.resources
+C:\Users\duong\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_Report_Tra.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\EnvDTE.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\stdole.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Form_DSNo.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Form_KhoSach.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Form_ReportMuon.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Form_Report_Tra.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\RdlCompile.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\RdlCompile.compiled
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+C:\Users\hoang\OneDrive\Máy tính\Phân tích & thiết kế hệ thống\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\EnvDTE.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\stdole.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\EnvDTE80.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\VSLangProj.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\VSLangProj80.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\VSLangProj2.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_DSNo.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_KhoSach.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_ReportMuon.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_Report_Tra.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\Test\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.QLSACH.exe.config
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\EnvDTE.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\stdole.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\EnvDTE80.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\VSLangProj.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\VSLangProj80.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Newtonsoft.Json.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.MSXML.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Framework.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\VSLangProj2.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_DSNo.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_KhoSach.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_ReportMuon.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Form_Report_Tra.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.Cache
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.AssemblyReference.cache
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.exe.config
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\RdlCompile.cache
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\RdlCompile.compiled
+D:\Learning\KiemThu&CNTT\Test\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\BUS_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\DTO_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\DAL_QLTV.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\EnvDTE.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\stdole.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\EnvDTE80.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\VSLangProj.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\VSLangProj80.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\VSLangProj2.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\BUS_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\DTO_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\DAL_QLTV.pdb
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.exe.config
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Cập_Nhật.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.DangNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Form_DSNo.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Form_KhoSach.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Form_ReportMuon.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Form_Report_Tra.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.HomeScreen.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Mượn_Trả.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Tác_Giả.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.Đọc_giả.resources
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\RdlCompile.cache
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\RdlCompile.compiled
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+C:\Users\hoang\OneDrive\Máy tính\Kiểm Thử Phần MềM\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\EnvDTE80.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\VSLangProj.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\VSLangProj80.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\VSLangProj2.dll
+C:\Users\hoang\Downloads\QLSACH\QLSACH\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.exe.config
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_KhoSach.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_ReportMuon.resources
+C:\Users\hoang\Downloads\QLSACH\QLSACH\obj\Debug\QLSACH.Form_Report_Tra.resources
